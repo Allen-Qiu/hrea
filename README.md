@@ -19,4 +19,4 @@ This website provides source code and datasets for a paper presented at ECML-PKD
 
 # visulization
 
-![alt text](http://url/to/img.png)
+![alt text](visual.png)
