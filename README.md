@@ -16,3 +16,7 @@ This website provides source code and datasets for a paper presented at ECML-PKD
 (7) run the file hrea_amazon_level2_train.py to train the second student model
 
 (8) run the file hrea_amazon_level2_explore.py to explore the aspect-groups in second level
+
+# visulization
+
+![alt text](http://url/to/img.png)
