@@ -20,7 +20,11 @@ This website provides source code and datasets for a paper presented at ECML-PKD
 # visulization
 
 This picture presents the encoded reviews in the Amazon dataset with categories.
+
 ![alt text](visual.png)
 
 # Hierarchical relations of aspects in the Amazondataset
+
+This is the hierarchical relationships of aspects extracted from the Amazon dataset with 50 banks in the first level and 10 banks in the second level. The categories of aspect groups are highlight in red. They are inferred by selecting the top two highestscoring categories from their category distributions. For each aspect group, the first five aspect terms are selected for presentation.
+
 ![alt text](fig6.png)
