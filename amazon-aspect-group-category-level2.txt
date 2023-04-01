@@ -1,0 +1,12 @@
+['video-games', 'baby', 'grocery-and-gourmet-food', 'digital-music', 'musical-instruments', 'pet-supplies', 'patio-lawn-and-garden', 'beauty', 'automotive', 'office-products']
+amazon-aspects-level2.txt
+0: ['mower', 'hose', 'trimmer', 'reel', 'charge', 'sprinkler', 'battery', 'tractor', 'spool', 'gas'] [0.67425564 0.18269331] ['patio-lawn-and-garden' 'automotive']
+1: ['customer', 'peace', 'service', 'thank', 'faith', 'praise', 'memories', 'entertainment', 'goodness', 'da'] [0.21199828 0.20979634] ['digital-music' 'musical-instruments']
+2: ['photo', 'van', 'edition', 'john', 'print', 'james', 'solo', 'paul', 'cd', 'recordings'] [0.37006351 0.35140927] ['musical-instruments' 'digital-music']
+3: ['quartets', 'symphonies', 'concertos', 'conductor', 'heath', 'pianist', 'op', 'haydn', 'ledger', 'bruckner'] [0.84217991 0.03471671] ['musical-instruments' 'digital-music']
+4: ['tongue', 'actor', 'proulx', 'spicy', 'structure', 'personality', 'reputation', 'humor', 'composition', 'rhythms'] [0.34477918 0.22116914] ['musical-instruments' 'digital-music']
+5: ['feature', 'button', 'function', 'character', 'mechanism', 'phone', 'melody', 'tempo', 'movement', 'sense'] [0.27030925 0.17242867] ['musical-instruments' 'digital-music']
+6: ['wall', 'wires', 'bands', 'cable', 'reference', 'clips', 'ps', 'cables', 'movie', 'file'] [0.2319715  0.19342872] ['video-games' 'automotive']
+7: ['bonsai', 'ticks', 'fleas', 'frontline', 'flea', 'myst', 'vacation', 'mask', 'resident', 'england'] [0.38317876 0.23872975] ['pet-supplies' 'video-games']
+8: ['balls', 'butter', 'sugar', 'candy', 'cake', 'fruit', 'corn', 'cheese', 'tennis', 'smell'] [0.51635021 0.1774113 ] ['grocery-and-gourmet-food' 'pet-supplies']
+9: ['diapers', 'litter', 'inside', 'brush', 'pores', 'wash', 'cleaning', 'diaper', 'refill', 'spray'] [0.29259564 0.25787316] ['baby' 'beauty']
