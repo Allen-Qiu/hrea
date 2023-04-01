@@ -20,3 +20,6 @@ This website provides source code and datasets for a paper presented at ECML-PKD
 # visulization
 
 ![alt text](visual.png)
+
+# Hierarchical relations of aspects in the Amazondataset
+![alt text](fig6.png)
