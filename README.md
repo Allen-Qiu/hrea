@@ -19,7 +19,7 @@ This website provides source code and datasets for a paper submitted at ECML-PKD
 
 # visualization
 
-This picture presents the encoded reviews in the Amazon dataset with categories.
+This picture presents the encoded reviews in the Amazon dataset with each color representing a category.
 
 ![alt text](visual.png)
 
