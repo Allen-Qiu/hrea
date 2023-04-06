@@ -1,4 +1,4 @@
-# 建立并训练一个基于memory bank的PKG模型的第二层
+# training the student 2 model
 
 import numpy as np
 import os, math, time
