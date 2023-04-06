@@ -1,5 +1,4 @@
-# 建立并训练一个基于memory bank的PKG模型的第一层
-# 使用抽取的名词做基础
+# training student 1 model with student-teacher learning
 
 import numpy as np
 import os, math, time
