@@ -32,13 +32,6 @@ idx_word = {}                       # index in nouns->word
 for i in range(len(nouns)):
     idx_word[i] = idx2token[nouns[i]]
 
-# save results for offline data analysis
-# with open('embeds.out', 'wb') as f:
-#     pickle.dump(E, f)
-#
-# with open('dic.out', 'wb') as f:
-#     pickle.dump(idx2token, f)
-
 M = np.matmul(bank, np.transpose(E))
 
 # find top n similar words for a cluster
@@ -50,6 +43,4 @@ for i in np.arange(M.shape[0]):
     words = find(M[i], idx_word, topn)
     print(words)
 
-# for i in nouns:
-#     print(idx2token[i])
 np.savetxt('bank1.txt', bank, fmt='%.4e', delimiter=',', encoding='utf-8')
