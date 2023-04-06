@@ -1,4 +1,4 @@
-# explore bank obtained in level 2 model
+# explore banks obtained in level 2 model
 
 import torch
 import numpy as np
