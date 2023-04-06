@@ -1,8 +1,7 @@
 '''
 for Amzaon dataset
-this is first task for hiercluster that pre-process data for all tasks
-it will save files:
-dataset, vocab, category, and word embedding matrix
+this is first task for HREA that pre-process data for all tasks
+it will save files: dataset, vocab, category, and word embedding matrix
 '''
 
 import pickle
