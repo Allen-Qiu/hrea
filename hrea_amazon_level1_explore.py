@@ -1,4 +1,4 @@
-# explore bank obtained in pkg_amazon_level1_train.py
+# explore aspects in first level
 
 import numpy as np
 import pickle
