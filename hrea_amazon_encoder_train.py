@@ -21,10 +21,6 @@ from hrea_amazon_model import TextAutoencoder, TextEncoder
 
 
 # 1. hyper-parameters
-# review_file   = '../data/amazon-review-100k.json'
-# embed_file    = '../data/amazon-embed.txt'
-# review_file   = '../data/amazon-review-1m.json'
-# embed_file    = '../data/amazon-1M-embeds-100.txt'
 g_lr          = 0.0008
 d_lr          = 0.002
 epochs        = 20
