@@ -1,5 +1,5 @@
 '''
-models for PKG
+models for HREA
 '''
 
 import math, random, numpy as np
