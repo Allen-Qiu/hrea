@@ -1,4 +1,4 @@
-# one file contain class for text processing
+# The classes for text processing
 
 from collections import defaultdict
 import re
@@ -138,7 +138,6 @@ class TxtDataset2(Dataset):
         length = len(X) - sum(X==0)
         return X, y, length
 
-# for hiercluster
 class TxtDataset3(Dataset):
     def __init__(self, pad_data, pad_data2, labels):
         self.labels = labels
@@ -157,7 +156,6 @@ class TxtDataset3(Dataset):
         return X1, X2, y, len1, len2
 
 
-# 增加返回当前的词的序列中是否包含名词的指示向量
 class TxtDataset4(Dataset):
     def __init__(self, pad_data, pad_data2, noun_data, noun_data2):
         # self.labels = labels
@@ -180,7 +178,7 @@ class TxtDataset4(Dataset):
 
         return X1, X2, len1, len2, noun1, noun2
 
-# load pretrained embeddings
+# load the pretrained embeddings
 class WordEmbeds():
     def __init__(self, word_index):
         self.word_index = word_index    # a dictionary of word->id
