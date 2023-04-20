@@ -17,19 +17,19 @@ This website provides source code and datasets for a paper submitted at ECML-PKD
 
 (8) run the file hrea_amazon_level2_explore.py to explore the aspect-groups in second level
 
-# visualization
+## visualization
 
 This picture presents the encoded reviews in the Amazon dataset with each color representing a category.
 
 ![alt text](visual.png)
 
-# Hierarchical relations of aspects in the Amazon dataset
+## Hierarchical relations of aspects in the Amazon dataset
 
 This is the hierarchical relationships of aspects extracted from the Amazon dataset with 50 banks in the first level and 10 banks in the second level. The categories of aspect groups are highlight in red. They are inferred by selecting the top two highestscoring categories from their category distributions. For each aspect group, the first five aspect terms are selected for presentation.
 
 ![alt text](fig6.png)
 
-# Datasets
+## Datasets
 
 (1) amazon-aspects-category-distribution.txt includes the category-distribution of aspect terms
 
