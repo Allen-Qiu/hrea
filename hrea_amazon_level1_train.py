@@ -88,7 +88,7 @@ for param in encoder.parameters():  # set encoder untrainable
 
 model = Student1(encoder.to(device), abase, (bank_size, embed_dim), enc_dim).to(device)
 
-# 5. 损失函数 loss = dist(Se,Sp) + Sp*Sn
+# 5. loss = dist(Se,Sp) + Sp*Sn
 pdist = torch.nn.PairwiseDistance(p=2.0, eps=1e-06, keepdim=False)
 
 def myloss(Se, Sp, Sn):
