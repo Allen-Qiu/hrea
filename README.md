@@ -17,7 +17,7 @@ This website provides source code and datasets for a paper submitted at ECML-PKD
 
 (8) run the file hrea_amazon_level2_explore.py to explore the aspect-groups in second level
 
-## visualization
+## Visualization
 
 This picture presents the encoded reviews in the Amazon dataset with each color representing a category.
 
