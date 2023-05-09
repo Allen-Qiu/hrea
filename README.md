@@ -17,6 +17,18 @@ This website provides source code and datasets for our research paper. To train 
 
 (8) run the file hrea_amazon_level2_explore.py to explore the aspect-groups in second level
 
+## Datasets
+
+(1) amazon-aspects-category-distribution.txt includes the category-distribution of aspect terms
+
+(2) amazon-embeds.txt includes the words embeddings
+
+(3) amazon-aspects.txt includes the aspect groups
+
+(4) amazon-aspect-group-category-level1.txt includes aspect groups in the first level with categories
+
+(4) amazon-aspect-group-category-level2.txt includes aspect groups in the second level with categories
+
 ## Visualization
 
 This picture presents the encoded reviews in the Amazon dataset with each color representing a category.
@@ -29,14 +41,3 @@ This is the hierarchical relationships of aspects extracted from the Amazon data
 
 ![alt text](fig6.png)
 
-## Datasets
-
-(1) amazon-aspects-category-distribution.txt includes the category-distribution of aspect terms
-
-(2) amazon-embeds.txt includes the words embeddings
-
-(3) amazon-aspects.txt includes the aspect groups
-
-(4) amazon-aspect-group-category-level1.txt includes aspect groups in the first level with categories
-
-(4) amazon-aspect-group-category-level2.txt includes aspect groups in the second level with categories
