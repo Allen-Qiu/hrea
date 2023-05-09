@@ -1,7 +1,7 @@
 # Extracting Hierarchical Relationships of Aspects from Reviews Using Self-supervised Learning
-This website provides source code and datasets for our research paper. 
+This website provides source codes and datasets for our research paper. 
 
-## Steps:
+## Steps
 To train the model, please follow these steps:
 
 (1) unzip the file amazon-review-100k.rar
