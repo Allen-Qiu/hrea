@@ -1,5 +1,8 @@
 # Extracting Hierarchical Relationships of Aspects from Reviews Using Self-supervised Learning
-This website provides source code and datasets for our research paper. To train the model, please follow these steps:
+This website provides source code and datasets for our research paper. 
+
+## Steps:
+To train the model, please follow these steps:
 
 (1) unzip the file amazon-review-100k.rar
 
@@ -41,11 +44,11 @@ This is the hierarchical relationships of aspects extracted from the Amazon data
 
 ![alt text](images/fig6.png)
 
-## aspects clusters detected by K-means
+## Aspects clusters detected by K-means
 ![alt text](images/K-means.png)
 
-## aspects clusters detected by GMM
+## Aspects clusters detected by GMM
 ![alt text](images/gmm.png)
 
-## aspects clusters detected by LDA
+## Aspects clusters detected by LDA
 ![alt text](images/LDA.png)
