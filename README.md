@@ -42,10 +42,10 @@ This is the hierarchical relationships of aspects extracted from the Amazon data
 ![alt text](images/fig6.png)
 
 ## aspects clusters detected by K-means
-![alt text](images/kmeans.png)
+![alt text](images/k-means.png)
 
 ## aspects clusters detected by GMM
 ![alt text](images/gmm.png)
 
 ## aspects clusters detected by LDA
-![alt text](images/ldang)
+![alt text](images/lda.png)
