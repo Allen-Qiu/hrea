@@ -34,7 +34,7 @@ To train the model, please follow these steps:
 
 ## Visualization
 
-This picture presents the encoded reviews in the Amazon dataset with each color representing a category.
+This is the latest picture that presents the encoded reviews in the Amazon dataset with each color representing a category.
 
 ![alt text](images/visual.png)
 
