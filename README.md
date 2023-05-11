@@ -52,3 +52,6 @@ This is the hierarchical relationships of aspects extracted from the Amazon data
 
 ## Aspects clusters detected by LDA
 ![alt text](images/LDA.png)
+
+## Aspects clusters detected by ABAE
+![alt text](images/abae.png)
