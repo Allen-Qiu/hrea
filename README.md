@@ -30,7 +30,11 @@ To train the model, please follow these steps:
 
 (4) amazon-aspect-group-category-level1.txt includes aspect groups in the first level with categories
 
-(4) amazon-aspect-group-category-level2.txt includes aspect groups in the second level with categories
+(5) amazon-aspect-group-category-level2.txt includes aspect groups in the second level with categories
+
+(6) yelp-reviews.json includes reviews and ratings selected from Yelp dataset.
+
+(7) wecr-reviews-10c.json is The Women’s E-Commerce Clothing Reviews 
 
 ## Visualization
 
