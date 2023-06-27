@@ -48,9 +48,6 @@ This is the hierarchical relationships of aspects extracted from the Amazon data
 
 ![alt text](images/fig6.png)
 
-## Aspects clusters detected by K-means
-![alt text](images/K-means.png)
-
 ## Aspects clusters detected by GMM
 ![alt text](images/gmm.png)
 
@@ -59,3 +56,6 @@ This is the hierarchical relationships of aspects extracted from the Amazon data
 
 ## Aspects clusters detected by ABAE
 ![alt text](images/abae.png)
+
+## Aspects clusters detected by K-means
+![alt text](images/lcc.png)
