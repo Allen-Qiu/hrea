@@ -11,7 +11,7 @@ import json
 import numpy as np
 import nltk
 
-from hrea_txtprocess import Vocab, Category, TxtDataset2, TxtDataset4, WordEmbeds
+from hrea_amazon_txtprocess import Vocab, Category, TxtDataset2, TxtDataset4, WordEmbeds
 
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
