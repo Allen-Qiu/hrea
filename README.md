@@ -1,5 +1,6 @@
 # Extracting Hierarchical Relationships of Aspects from Reviews Using Self-supervised Learning
 This website provides source codes and datasets for our research paper. 
+dependencies: Pytorch, cudn, sci-kit learn, NLTK 
 
 ## Steps
 To train the model, please follow these steps:
