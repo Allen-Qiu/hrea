@@ -1,5 +1,7 @@
 # Extracting Hierarchical Relationships of Aspects from Reviews Using Self-supervised Learning
 This website provides source codes and datasets for our research paper. 
+We only list the datsets and codes related with amazon. All datasets and codes will be shared after the paper is accepted.
+
 dependencies: Pytorch, cudn, sci-kit learn, NLTK 
 
 ## Steps
