@@ -61,3 +61,6 @@ This is the hierarchical relationships of aspects extracted from the Amazon data
 
 ## Aspects clusters detected by LCC+GBC
 ![alt text](images/lcc.png)
+
+## Aspects clusters detected by SSCL
+![alt text](images/sscl.png)
