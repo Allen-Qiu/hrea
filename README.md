@@ -38,11 +38,11 @@ To train the model, please follow these steps:
 
 (7) wecr-reviews-10c.json is The Women’s E-Commerce Clothing Reviews 
 
-## Visualization
+## Hyper-parameters
 
-This is the latest picture that presents the encoded reviews in the Amazon dataset with each color representing a category.
+The hyperparameters for training the models are listed in Table 1.
 
-![alt text](images/visual.png)
+![alt text](images/hyperparams.png)
 
 ## Hierarchical relations of aspects in the Amazon dataset
 
