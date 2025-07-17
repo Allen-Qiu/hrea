@@ -3,7 +3,7 @@ This website shows the amazon datasets and related codes. Others will be shared 
 
 dependencies: Pytorch, cudn, sci-kit learn, NLTK 
 
-Citation: Jiangtao Qiu, Ling Lin, Siyu Wang, Extracting hierarchical relationships of aspects from reviews, Applied Soft Computing, Volume 178, 2025, 113335,
+Cite: Jiangtao Qiu, Ling Lin, Siyu Wang, Extracting hierarchical relationships of aspects from reviews, Applied Soft Computing, Volume 178, 2025, 113335,
 
 ## Steps
 To train the model, please follow these steps:
